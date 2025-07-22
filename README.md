@@ -1,5 +1,8 @@
 # 🩺 Diabetes Prediction using Machine Learning
 
+
+👉 **[🔗 Live Demo](https://ritusagar225-diabetes-prediction-app-vyknrv.streamlit.app/)**
+
 This project aims to predict whether a person has diabetes based on diagnostic measurements. It uses machine learning algorithms trained on the **PIMA Indians Diabetes Dataset** to provide early prediction and assist in proactive healthcare planning.
 
 ---
