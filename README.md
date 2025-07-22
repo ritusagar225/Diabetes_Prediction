@@ -74,9 +74,11 @@ The final deployed model uses **Random Forest** due to its higher accuracy and r
    git clone https://github.com/yourusername/diabetes-prediction.git
    cd diabetes-prediction
 
-2. Install Dependencies
+2. Install Dependencies:
+   ```bash
    pip install -r requirements.txt
 
-3. Run the app
+4. Run the app:
+   ```bash
    streamlit run app.py
 
