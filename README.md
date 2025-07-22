@@ -63,7 +63,6 @@ The final deployed model uses **Random Forest** due to its higher accuracy and r
 - Accuracy Score
 - Precision, Recall, F1-score
 - Confusion Matrix
-- ROC AUC Score
 
 ---
 
